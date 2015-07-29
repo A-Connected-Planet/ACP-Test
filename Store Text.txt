@@ -1,0 +1,7 @@
+Alfabe Kreyol was developed by A Connected Planet Foundation for use in Haiti in our Tablet Implementation Program. Virtually no applications exist in Haitian Creole. So we stated building our own applications.
+
+The app is very simple. Each letter of the alphabet is displayed with pictures containing the letter. When a letter is touched the letter sound is played and when the picture is touched the word is pronounced.
+
+Our focus is on education apps for young Haitian children. The graphics depict culturally relevant items for the rural areas that we work in. Look for our other applications about numbers, colors, shapes, animals and vegetables.
+
+Our staff and volunteers include  professionals from the Academic, Education, Computer Science, Business, Operational Psychology and Speech Language Pathology sectors.
